@@ -39,6 +39,12 @@ menu:
       weight: 6
       pre: "<span data-feather='github'></span>"
 
+markup:
+  tableOfContents:
+    startLevel: 1
+    endLevel: 4
+    ordered: false
+
 params:
   author: "Ryan Quinn"
   togglePreviousAndNextButtons: true
@@ -47,6 +53,7 @@ params:
   description: "Computer Systems Engineer, Software Developer in Go and Python."
   showPostsOnHomePage: "recent"
   footer: "RQ"
+  accentColor: "#FF4D4D"
 
 privacy:
   disqus:
@@ -94,3 +101,4 @@ minify:
       precision: 0
     xml:
       keepWhitespace: false
+...
