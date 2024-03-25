@@ -24,7 +24,7 @@ menu:
       weight: 3
       pre: "<span data-feather='rss'></span>"
     - identifier: "email"
-      url: "mailto:quinnr@duck.com"
+      url: "mailto:quinnrm@pm.me"
       name: "Email"
       weight: 4
       pre: "<span data-feather='mail'></span>"
