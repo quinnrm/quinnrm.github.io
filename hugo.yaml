@@ -18,26 +18,36 @@ menu:
       name: "Posts"
       weight: 2
       pre: "<span data-feather='book'></span>"
-    - identifier: "rss"
-      url: "/index.xml"
-      name: "RSS"
-      weight: 3
-      pre: "<span data-feather='rss'></span>"
-    - identifier: "email"
-      url: "mailto:quinnrm@pm.me"
-      name: "Email"
-      weight: 4
-      pre: "<span data-feather='mail'></span>"
     - identifier: "linkedin"
       url: "https://www.linkedin.com/in/rmq"
       name: "LinkedIn"
-      weight: 5
+      weight: 3
       pre: "<span data-feather='linkedin'></span>"
     - identifier: "github"
       url: "https://github.com/quinnrm"
       name: "GitHub"
-      weight: 6
+      weight: 4
       pre: "<span data-feather='github'></span>"
+    - identifier: "gitlab"
+      url: "https://gitlab.com/quinnrm"
+      weight: 5
+      name: "GitLab"
+      pre: "<span data-feather='gitlab'></span>"
+    - identifier: "fediverse"
+      url: "https://toot.io/@rmq"
+      name: "Fediverse"
+      weight: 6
+      pre: "<span data-feather='globe'></span>"
+    - identifier: "email"
+      url: "mailto:quinnrm@pm.me"
+      name: "Email"
+      weight: 7
+      pre: "<span data-feather='mail'></span>"
+    - identifier: "rss"
+      url: "/index.xml"
+      name: "RSS"
+      weight: 8
+      pre: "<span data-feather='rss'></span>"
 
 markup:
   tableOfContents:
@@ -54,6 +64,7 @@ params:
   showPostsOnHomePage: "recent"
   footer: "RQ"
   accentColor: "#FF4D4D"
+  customHeadHTML: '<link rel="me" href="https://toot.io/@rmq">'
 
 privacy:
   disqus:
