@@ -44,7 +44,7 @@ params:
   togglePreviousAndNextButtons: true
   avatarSize: "size-m"
   avatarURL: "/images/avatar.jpg"
-  description: "Linux/BSD Systems Engineer, Software Development in Go and Python."
+  description: "Computer Systems Engineer, Software Developer in Go and Python."
   showPostsOnHomePage: "recent"
   footer: "RQ"
 
