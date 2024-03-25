@@ -4,8 +4,8 @@ name: Deploy Hugo site to Pages
 on:
   # Runs on pushes targeting the main branch and a version tag.
   push:
-    tags:
-      - 'v*'
+    branches:
+      - main
   # Run a build at 05:00Z on Saturday
   schedule:
     - cron: '30 5 * * *'
