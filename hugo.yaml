@@ -20,12 +20,20 @@ defaultContentLanguage: "en"
 enableRobotsTXT: true
 title: "Resume for Ryan Quinn"
 
-params:
-  menu:
-    main:
-      identifier: "posts"
+menu:
+  main:
+    - identifier: "github"
+      url: "https://github.com/quinnrm"
+      weight: 3
+      pre: "<span data-feather='github'></span>"
+    - identifier: "posts"
       url: "/posts/"
-      pre: ""
-      post: ""
       name: "Posts"
       weight: 1
+
+params:
+  togglePreviousAndNextButtons: true
+  showPostsOnHomePage: "recent"
+  avatarSize: "size-l"
+  avatarURL: "/images/avatar.jpg"
+  footer: "RQ"
