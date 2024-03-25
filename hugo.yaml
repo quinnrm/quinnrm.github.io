@@ -30,8 +30,8 @@ menu:
       pre: "<span data-feather='github'></span>"
     - identifier: "gitlab"
       url: "https://gitlab.com/quinnrm"
-      weight: 5
       name: "GitLab"
+      weight: 5
       pre: "<span data-feather='gitlab'></span>"
     - identifier: "fediverse"
       url: "https://toot.io/@rmq"
