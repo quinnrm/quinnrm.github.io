@@ -65,6 +65,8 @@ params:
   footer: "RQ"
   accentColor: "#FF4D4D"
   customHeadHTML: '<link rel="me" href="https://toot.io/@rmq">'
+  enableRobotsTXT: true
+  customFooterHTML: "<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{\"token\": \"f67474e611d54425905e373631820884\"}'></script><!-- End Cloudflare Web Analytics -->"
 
 privacy:
   disqus:
