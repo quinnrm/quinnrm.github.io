@@ -1,5 +1,5 @@
 ---
-name: Typo report
+name: Typo Report
 about: Create a report to help us remove typos
 title: 'Typo '
 labels: typo

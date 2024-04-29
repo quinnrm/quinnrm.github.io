@@ -1,6 +1,6 @@
 ---
-name: Update request
-about: Update dependencies
+name: Update or Maintenance Request
+about: Update dependencies or other maintenance
 title: 'Update '
 labels: update
 assignees: quinnrm
