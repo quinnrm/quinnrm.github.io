@@ -1,5 +1,5 @@
 ---
-name: Error report
+name: Error Report
 about: Create a report to help us improve
 title: 'Fix '
 labels: error
