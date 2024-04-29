@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature Request
 about: Suggest a new feature for the website
 title: 'New '
 labels: add
