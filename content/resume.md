@@ -1,9 +1,9 @@
 ---
 title: "Resume"
 date: 2025-08-04T23:37:46-05:00
-draft: true
-type: "post"
-showTableOfContents: false
+draft: false
+type: "page"
+showTableOfContents: true
 ---
 # Ryan Quinn
 
@@ -46,9 +46,9 @@ goals and developing the next generation of tech professionals.
 
 ### Cloud Support Engineer
 
-Serverless Solutions  
-Tulsa, OK  
-May 2024 - Present
+Serverless Solutions, Tulsa, OK  
+May 2024 - Present  
+Full-time
 
 Maintained and supported Azure client tenants as part of the managed
 services provider (MSP) team, diagnosed and resolved technical issues,
@@ -92,9 +92,9 @@ Skills:
 
 ### Founder
 
-PSI-GREEN.NET  
-Tulsa, OK  
-July 2016 - July 2024
+PSI-GREEN.NET, Tulsa, OK  
+July 2016 - July 2024  
+Part-time
 
 Founded and operated a technology consulting firm specializing in
 providing IT services and solutions.
@@ -119,9 +119,9 @@ Skills:
 
 ### Cybersecurity Teaching Assistant
 
-2U  
-Tulsa, OK  
-April 2023 - June 2024
+2U, Tulsa, OK (Remote)  
+April 2023 - June 2024  
+Part-time
 
 In this role, I supported the instructor and students by fostering an
 engaging and inclusive learning environment, which enhanced students’
@@ -156,9 +156,9 @@ Skills:
 
 ### Systems Engineer
 
-Video Modify  
-Tulsa, OK  
-May 2019 - May 2024
+Video Modify, Tulsa, OK (Hybrid)  
+May 2019 - May 2024  
+Full-time
 
 Specialized in API development, infrastructure automation, and leading
 security audits to ensure compliance and operational efficiency.
@@ -229,9 +229,9 @@ Skills:
 
 ### Solutions Architect
 
-OP5  
-Tulsa, OK  
-February 2018 - April 2019
+OP5, Tulsa, OK  
+February 2018 - April 2019  
+Full-time
 
 Responsible for implementing OP5 Monitor solutions, automating tasks
 with Python, and developing technical documentation and training
@@ -289,9 +289,9 @@ Skills:
 
 ### Independent Contractor
 
-Expert Ready  
-Tulsa, OK  
-February 2019 - March 2019
+Expert Ready, Tulsa, OK  
+February 2019 - March 2019  
+Contract
 
 Short term contract to construct a system for testing code changes by
 containerizing Lucee and MySQL with Docker, and developed comprehensive
@@ -321,9 +321,9 @@ Skills:
 
 ### Senior System Engineer
 
-Oklahoma Innovation Institute  
-Tulsa, OK  
-April 2016 - January 2018
+Oklahoma Innovation Institute, Tulsa, OK  
+April 2016 - January 2018  
+Full-time
 
 All things related to OII systems, processes, and the Tandy
 Supercomputing Center (TSC) before OII ran out of funding. System and
@@ -372,9 +372,9 @@ Skills:
 
 ### Linux System Administrator
 
-Medical Informatics Engineering (MIE)  
-Tulsa, OK  
-October 2014 - April 2016
+Medical Informatics Engineering (MIE), Tulsa, OK (Remote)  
+October 2014 - April 2016  
+Full-time
 
 Maintained and supported mission-critical servers, collaborated with
 project teams to implement solutions, optimized system performance, and
@@ -442,9 +442,9 @@ Skills:
 
 ### IT Manager
 
-ALL Consulting  
-Tulsa, OK  
-September 2009 - October 2014
+ALL Consulting, Tulsa, OK  
+September 2009 - October 2014  
+Full-time
 
 All things related to IT operations and systems. Break/fix,
 implementation of new systems and services, internal and external
@@ -507,8 +507,7 @@ Skills:
 
 ### Site Support Administrator Associate
 
-HP  
-Tulsa, OK  
+HP, Tulsa, OK  
 July 2006 - September 2009  
 Full-time
 
@@ -533,8 +532,7 @@ Skills:
 
 ### Helpdesk Associate
 
-Hastings Entertainment Inc.  
-Amarillo, TX  
+Hastings Entertainment Inc., Amarillo, TX  
 August 2004 - June 2006  
 Full-time
 
@@ -560,7 +558,7 @@ Skills:
 
 ### Senior Technical Consultant
 
-ProCorp Services  
+ProCorp Services, Amarillo, TX  
 November 2003 - July 2004  
 Full-time
 
@@ -594,8 +592,7 @@ Skills:
 
 ### Information Technology Technician
 
-Texas Tech University Health Science Center  
-Amarillo, TX  
+Texas Tech University Health Science Center, Amarillo, TX  
 August 2002 - November 2003  
 Full-time
 
@@ -627,8 +624,7 @@ Skills:
 
 ### Information Technology Associate
 
-Borger Independent School District (BISD)  
-Borger, TX  
+Borger Independent School District (BISD), Borger, TX  
 August 1999 - August 2000  
 August 2001 - August 2002  
 Full-time
