@@ -1,9 +1,15 @@
 ---
 title: "Resume"
 date: 2025-08-04T23:37:46-05:00
+<<<<<<< HEAD
 draft: false
 type: "page"
 showTableOfContents: true
+=======
+draft: true
+type: "post"
+showTableOfContents: false
+>>>>>>> 790b0d0 (Added resume page.)
 ---
 # Ryan Quinn
 
@@ -46,9 +52,15 @@ goals and developing the next generation of tech professionals.
 
 ### Cloud Support Engineer
 
+<<<<<<< HEAD
 Serverless Solutions, Tulsa, OK  
 May 2024 - Present  
 Full-time
+=======
+Serverless Solutions  
+Tulsa, OK  
+May 2024 - Present
+>>>>>>> 790b0d0 (Added resume page.)
 
 Maintained and supported Azure client tenants as part of the managed
 services provider (MSP) team, diagnosed and resolved technical issues,
@@ -92,9 +104,15 @@ Skills:
 
 ### Founder
 
+<<<<<<< HEAD
 PSI-GREEN.NET, Tulsa, OK  
 July 2016 - July 2024  
 Part-time
+=======
+PSI-GREEN.NET  
+Tulsa, OK  
+July 2016 - July 2024
+>>>>>>> 790b0d0 (Added resume page.)
 
 Founded and operated a technology consulting firm specializing in
 providing IT services and solutions.
@@ -119,9 +137,15 @@ Skills:
 
 ### Cybersecurity Teaching Assistant
 
+<<<<<<< HEAD
 2U, Tulsa, OK (Remote)  
 April 2023 - June 2024  
 Part-time
+=======
+2U  
+Tulsa, OK  
+April 2023 - June 2024
+>>>>>>> 790b0d0 (Added resume page.)
 
 In this role, I supported the instructor and students by fostering an
 engaging and inclusive learning environment, which enhanced students’
@@ -156,9 +180,15 @@ Skills:
 
 ### Systems Engineer
 
+<<<<<<< HEAD
 Video Modify, Tulsa, OK (Hybrid)  
 May 2019 - May 2024  
 Full-time
+=======
+Video Modify  
+Tulsa, OK  
+May 2019 - May 2024
+>>>>>>> 790b0d0 (Added resume page.)
 
 Specialized in API development, infrastructure automation, and leading
 security audits to ensure compliance and operational efficiency.
@@ -229,9 +259,15 @@ Skills:
 
 ### Solutions Architect
 
+<<<<<<< HEAD
 OP5, Tulsa, OK  
 February 2018 - April 2019  
 Full-time
+=======
+OP5  
+Tulsa, OK  
+February 2018 - April 2019
+>>>>>>> 790b0d0 (Added resume page.)
 
 Responsible for implementing OP5 Monitor solutions, automating tasks
 with Python, and developing technical documentation and training
@@ -289,9 +325,15 @@ Skills:
 
 ### Independent Contractor
 
+<<<<<<< HEAD
 Expert Ready, Tulsa, OK  
 February 2019 - March 2019  
 Contract
+=======
+Expert Ready  
+Tulsa, OK  
+February 2019 - March 2019
+>>>>>>> 790b0d0 (Added resume page.)
 
 Short term contract to construct a system for testing code changes by
 containerizing Lucee and MySQL with Docker, and developed comprehensive
@@ -321,9 +363,15 @@ Skills:
 
 ### Senior System Engineer
 
+<<<<<<< HEAD
 Oklahoma Innovation Institute, Tulsa, OK  
 April 2016 - January 2018  
 Full-time
+=======
+Oklahoma Innovation Institute  
+Tulsa, OK  
+April 2016 - January 2018
+>>>>>>> 790b0d0 (Added resume page.)
 
 All things related to OII systems, processes, and the Tandy
 Supercomputing Center (TSC) before OII ran out of funding. System and
@@ -372,9 +420,15 @@ Skills:
 
 ### Linux System Administrator
 
+<<<<<<< HEAD
 Medical Informatics Engineering (MIE), Tulsa, OK (Remote)  
 October 2014 - April 2016  
 Full-time
+=======
+Medical Informatics Engineering (MIE)  
+Tulsa, OK  
+October 2014 - April 2016
+>>>>>>> 790b0d0 (Added resume page.)
 
 Maintained and supported mission-critical servers, collaborated with
 project teams to implement solutions, optimized system performance, and
@@ -442,9 +496,15 @@ Skills:
 
 ### IT Manager
 
+<<<<<<< HEAD
 ALL Consulting, Tulsa, OK  
 September 2009 - October 2014  
 Full-time
+=======
+ALL Consulting  
+Tulsa, OK  
+September 2009 - October 2014
+>>>>>>> 790b0d0 (Added resume page.)
 
 All things related to IT operations and systems. Break/fix,
 implementation of new systems and services, internal and external
@@ -507,7 +567,12 @@ Skills:
 
 ### Site Support Administrator Associate
 
+<<<<<<< HEAD
 HP, Tulsa, OK  
+=======
+HP  
+Tulsa, OK  
+>>>>>>> 790b0d0 (Added resume page.)
 July 2006 - September 2009  
 Full-time
 
@@ -532,7 +597,12 @@ Skills:
 
 ### Helpdesk Associate
 
+<<<<<<< HEAD
 Hastings Entertainment Inc., Amarillo, TX  
+=======
+Hastings Entertainment Inc.  
+Amarillo, TX  
+>>>>>>> 790b0d0 (Added resume page.)
 August 2004 - June 2006  
 Full-time
 
@@ -558,7 +628,11 @@ Skills:
 
 ### Senior Technical Consultant
 
+<<<<<<< HEAD
 ProCorp Services, Amarillo, TX  
+=======
+ProCorp Services  
+>>>>>>> 790b0d0 (Added resume page.)
 November 2003 - July 2004  
 Full-time
 
@@ -592,7 +666,12 @@ Skills:
 
 ### Information Technology Technician
 
+<<<<<<< HEAD
 Texas Tech University Health Science Center, Amarillo, TX  
+=======
+Texas Tech University Health Science Center  
+Amarillo, TX  
+>>>>>>> 790b0d0 (Added resume page.)
 August 2002 - November 2003  
 Full-time
 
@@ -624,7 +703,12 @@ Skills:
 
 ### Information Technology Associate
 
+<<<<<<< HEAD
 Borger Independent School District (BISD), Borger, TX  
+=======
+Borger Independent School District (BISD)  
+Borger, TX  
+>>>>>>> 790b0d0 (Added resume page.)
 August 1999 - August 2000  
 August 2001 - August 2002  
 Full-time
